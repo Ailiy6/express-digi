@@ -1,0 +1,13 @@
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/teas\",\"status\":\"201\",\"responseTime\":\"27.753\"}","timestamp":"2025-09-13T07:22:38.229Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/teas\",\"status\":\"201\",\"responseTime\":\"0.574\"}","timestamp":"2025-09-13T07:22:51.248Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/teas\",\"status\":\"200\",\"responseTime\":\"0.587\"}","timestamp":"2025-09-13T07:24:49.281Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/teas\",\"status\":\"200\",\"responseTime\":\"3.764\"}","timestamp":"2025-09-13T07:29:21.843Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"A post request was make to add a new tea","timestamp":"2025-09-13T07:29:24.570Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/teas\",\"status\":\"201\",\"responseTime\":\"1.301\"}","timestamp":"2025-09-13T07:29:24.572Z"}
+{"level":"\u001b[33mwarn\u001b[39m","message":"A post request was make to add a new tea","timestamp":"2025-09-13T07:30:12.153Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/teas\",\"status\":\"201\",\"responseTime\":\"26.284\"}","timestamp":"2025-09-13T07:30:12.191Z"}
+{"level":"\u001b[33mwarn\u001b[39m","message":"A post request was make to add a new tea","timestamp":"2025-09-13T08:27:16.330Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/teas\",\"status\":\"201\",\"responseTime\":\"1.587\"}","timestamp":"2025-09-13T08:27:16.334Z"}
+{"level":"\u001b[33mwarn\u001b[39m","message":"A post request was make to add a new tea","timestamp":"2025-09-13T08:27:26.670Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/teas\",\"status\":\"201\",\"responseTime\":\"24.469\"}","timestamp":"2025-09-13T08:27:26.695Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/teas\",\"status\":\"200\",\"responseTime\":\"1.483\"}","timestamp":"2025-09-13T08:27:30.023Z"}
